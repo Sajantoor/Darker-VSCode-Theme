@@ -1,8 +1,24 @@
 {
     "name": "darker-theme",
-    "displayName": "darker",
-    "description": "Darker VSCode Theme",
-    "version": "0.0.1",
+    "displayName": "Darker Theme",
+    "description": "A Darker  VS Code Theme",
+    "publisher": "sajantoor",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sajantoor/Darker-VSCode-Theme/"
+    },
+    "keywords": [
+        "darker",
+        "theme",
+        "black",
+        "dark theme",
+        "dark",
+        "one dark",
+        "atom one dark",
+        "darkest theme",
+        "black theme"
+    ],
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.63.0"
     },
